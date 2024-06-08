@@ -1,0 +1,27 @@
+#slider {
+    text-align: center;
+}
+
+#images img {
+    width: 600px;
+    max-height: 400px;
+}
+
+button {
+    margin: 20px;
+    padding: 20px;
+}
+
+#nav-dots {
+    margin-top: 20px;
+}
+
+.dot {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: grey;
+    margin: 0 5px;
+    cursor: pointer;
+}
